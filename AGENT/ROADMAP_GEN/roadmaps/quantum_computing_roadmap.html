@@ -1,0 +1,864 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; padding: 40px; line-height: 1.6; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 30px; }
+        h3 { color: #7f8c8d; }
+        table { border-collapse: collapse; width: 100%; margin: 15px 0; }
+        th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
+        th { background-color: #3498db; color: white; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+        hr { border: none; border-top: 2px solid #ecf0f1; margin: 30px 0; }
+        ul { margin: 10px 0; }
+        li { margin: 5px 0; }
+    </style>
+</head>
+<body>
+<h1>Learning Roadmap: Quantum Computing</h1>
+<p><strong>Duration:</strong> 12 Weeks | <strong>Level:</strong> Intermediate | <strong>Weekly Effort:</strong> 21 hours</p>
+<h2>Prerequisites</h2>
+<ul>
+<li>Linear Algebra (vectors, matrices, complex numbers)</li>
+<li>Calculus (basic differentiation and integration)</li>
+<li>Basic Python Programming (functions, loops, data structures)</li>
+<li>Introduction to Classical Physics (optional, but helpful)</li>
+</ul>
+<hr />
+<h2>Week 1: Foundations of Quantum Mechanics &amp; Linear Algebra Review</h2>
+<p><strong>Effort:</strong> 3 hours/day</p>
+<h3>📚 Topics</h3>
+<ul>
+<li>Review of Complex Numbers and Vector Spaces</li>
+<li>Dirac Notation (bra-ket notation)</li>
+<li>Introduction to Quantum Superposition</li>
+<li>Introduction to Quantum Measurement</li>
+<li>Probability in Quantum Mechanics</li>
+</ul>
+<h3>🎥 YouTube Resources</h3>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Channel</th>
+<th>Duration</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Mechanics for Dummies</td>
+<td>Physics Explained</td>
+<td>15 mins</td>
+<td><a href="https://www.youtube.com/watch?v=D-yfA_yW1gM">Watch</a></td>
+</tr>
+<tr>
+<td>The bra-ket notation in quantum mechanics</td>
+<td>DrPhysicsA</td>
+<td>18 mins</td>
+<td><a href="https://www.youtube.com/watch?v=F_RjU8M-a0A">Watch</a></td>
+</tr>
+<tr>
+<td>Quantum Superposition - The weirdness of quantum mechanics</td>
+<td>minutephysics</td>
+<td>3 mins</td>
+<td><a href="https://www.youtube.com/watch?v=Q1YqgP_u1m8">Watch</a></td>
+</tr>
+</tbody>
+</table>
+<h3>📖 Books</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Computation and Quantum Information</td>
+<td>Michael A. Nielsen &amp; Isaac L. Chuang</td>
+<td>Comprehensive foundational text, dense but invaluable for theory (Chapters 1-2)</td>
+</tr>
+<tr>
+<td>No-Nonsense Quantum Mechanics</td>
+<td>Jakob Schwichtenberg</td>
+<td>Intuitive introduction to quantum mechanics concepts</td>
+</tr>
+</tbody>
+</table>
+<h3>✅ Goals</h3>
+<ul>
+<li>[ ] Understand and apply Dirac notation for quantum states.</li>
+<li>[ ] Grasp the concept of superposition and its implications.</li>
+<li>[ ] Calculate probabilities of measurement outcomes for simple quantum states.</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p><strong>Basic Quantum State Simulation:</strong> Use Python with NumPy to represent and manipulate simple quantum states (vectors) and perform basic operations like normalization and inner products.</p>
+<hr />
+<h2>Week 2: Qubits, Bloch Sphere, and Single-Qubit Gates</h2>
+<p><strong>Effort:</strong> 3 hours/day</p>
+<h3>📚 Topics</h3>
+<ul>
+<li>Classical Bits vs. Qubits</li>
+<li>Representing Qubits on the Bloch Sphere</li>
+<li>Single-Qubit Gates: Pauli-X, Y, Z, Hadamard</li>
+<li>Matrix Representation of Quantum Gates</li>
+<li>Phase and Global Phase</li>
+</ul>
+<h3>🎥 YouTube Resources</h3>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Channel</th>
+<th>Duration</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>What is a Qubit?</td>
+<td>IBM Quantum</td>
+<td>5 mins</td>
+<td><a href="https://www.youtube.com/watch?v=SYtJ1F40_50">Watch</a></td>
+</tr>
+<tr>
+<td>The Bloch Sphere</td>
+<td>Qiskit</td>
+<td>10 mins</td>
+<td><a href="https://www.youtube.com/watch?v=yYn9N55g2tA">Watch</a></td>
+</tr>
+<tr>
+<td>Quantum Gates (Part 1)</td>
+<td>Qiskit</td>
+<td>12 mins</td>
+<td><a href="https://www.youtube.com/watch?v=b0XNn9s3gY4">Watch</a></td>
+</tr>
+</tbody>
+</table>
+<h3>📖 Books</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Learn Quantum Computation using Qiskit</td>
+<td>Various (Qiskit Textbook)</td>
+<td>Practical introduction to qubits and gates with Qiskit examples (Chapters 1-2)</td>
+</tr>
+</tbody>
+</table>
+<h3>✅ Goals</h3>
+<ul>
+<li>[ ] Differentiate between classical bits and qubits.</li>
+<li>[ ] Visualize single-qubit states on the Bloch sphere.</li>
+<li>[ ] Apply common single-qubit gates and understand their effects.</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p><strong>Single-Qubit Gate Simulator:</strong> Implement Pauli-X, Y, Z, and Hadamard gates as matrices in Python. Apply them to a qubit state and visualize the state's evolution on a simulated Bloch sphere (e.g., using Matplotlib for 3D plotting).</p>
+<hr />
+<h2>Week 3: Quantum Entanglement &amp; Multiple Qubits</h2>
+<p><strong>Effort:</strong> 3 hours/day</p>
+<h3>📚 Topics</h3>
+<ul>
+<li>Tensor Products for Multi-Qubit States</li>
+<li>Representing Multi-Qubit Systems</li>
+<li>Introduction to Quantum Entanglement</li>
+<li>Bell States and their Properties</li>
+<li>Controlled-NOT (CNOT) Gate and its role in entanglement</li>
+</ul>
+<h3>🎥 YouTube Resources</h3>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Channel</th>
+<th>Duration</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tensor Products in Quantum Mechanics</td>
+<td>Qiskit</td>
+<td>15 mins</td>
+<td><a href="https://www.youtube.com/watch?v=R6u_u83V_oM">Watch</a></td>
+</tr>
+<tr>
+<td>What is Quantum Entanglement?</td>
+<td>TED-Ed</td>
+<td>5 mins</td>
+<td><a href="https://www.youtube.com/watch?v=ZuvK-6dsOWA">Watch</a></td>
+</tr>
+<tr>
+<td>Quantum Gates (Part 2) - CNOT</td>
+<td>Qiskit</td>
+<td>10 mins</td>
+<td><a href="https://www.youtube.com/watch?v=Fj0X7U1n7a4">Watch</a></td>
+</tr>
+</tbody>
+</table>
+<h3>📖 Books</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Computing for Everyone</td>
+<td>Chris Bernhardt</td>
+<td>Gentle introduction to multi-qubit systems and entanglement without heavy math</td>
+</tr>
+</tbody>
+</table>
+<h3>✅ Goals</h3>
+<ul>
+<li>[ ] Construct multi-qubit states using tensor products.</li>
+<li>[ ] Understand the concept and significance of quantum entanglement.</li>
+<li>[ ] Apply the CNOT gate to create entangled states.</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p><strong>Bell State Generator:</strong> Use Qiskit or a similar quantum SDK to create the four Bell states. Simulate measurements on these states and observe the correlations that demonstrate entanglement.</p>
+<hr />
+<h2>Week 4: Quantum Circuits &amp; Measurement</h2>
+<p><strong>Effort:</strong> 3 hours/day</p>
+<h3>📚 Topics</h3>
+<ul>
+<li>Quantum Circuit Model</li>
+<li>Universal Gate Sets (e.g., CNOT, H, T)</li>
+<li>Measurement in the Computational Basis</li>
+<li>Probabilistic Nature of Quantum Measurement</li>
+<li>Introduction to Quantum Simulators (e.g., Qiskit Aer)</li>
+</ul>
+<h3>🎥 YouTube Resources</h3>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Channel</th>
+<th>Duration</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Building Quantum Circuits</td>
+<td>IBM Quantum</td>
+<td>7 mins</td>
+<td><a href="https://www.youtube.com/watch?v=wz-xJ26k83w">Watch</a></td>
+</tr>
+<tr>
+<td>Understanding Measurement in Quantum Mechanics</td>
+<td>PBS Space Time</td>
+<td>15 mins</td>
+<td><a href="https://www.youtube.com/watch?v=O_ZqJ1XbQJg">Watch</a></td>
+</tr>
+<tr>
+<td>Simulating Quantum Computers with Qiskit Aer</td>
+<td>Qiskit</td>
+<td>10 mins</td>
+<td><a href="https://www.youtube.com/watch?v=fQ4246HlYpE">Watch</a></td>
+</tr>
+</tbody>
+</table>
+<h3>📖 Books</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Programming Quantum Computers</td>
+<td>Eric R. Johnston, Nic Harrigan, Gill Brassard</td>
+<td>Practical guide to building quantum circuits with various SDKs (Chapters 1-4)</td>
+</tr>
+</tbody>
+</table>
+<h3>✅ Goals</h3>
+<ul>
+<li>[ ] Design and build simple quantum circuits.</li>
+<li>[ ] Understand how measurement affects quantum states.</li>
+<li>[ ] Use quantum simulators to test and run circuits.</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p><strong>Simple Quantum Circuit Design:</strong> Design a 2-3 qubit quantum circuit using Qiskit (or similar) that applies a sequence of H and CNOT gates, then measures the final state. Analyze the measurement probabilities.</p>
+<hr />
+<h2>Week 5: Introduction to Quantum Algorithms - Part 1 (Deutsch-Jozsa)</h2>
+<p><strong>Effort:</strong> 3 hours/day</p>
+<h3>📚 Topics</h3>
+<ul>
+<li>Concept of Quantum Parallelism</li>
+<li>Oracle Functions in Quantum Computing</li>
+<li>The Deutsch-Jozsa Algorithm: Problem and Solution</li>
+<li>Implementing Oracles for Deutsch-Jozsa</li>
+<li>Analyzing Algorithm Performance</li>
+</ul>
+<h3>🎥 YouTube Resources</h3>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Channel</th>
+<th>Duration</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Parallelism Explained</td>
+<td>Quantum Computing UK</td>
+<td>8 mins</td>
+<td><a href="https://www.youtube.com/watch?v=G7_WqC8qNls">Watch</a></td>
+</tr>
+<tr>
+<td>Deutsch-Jozsa Algorithm Explained</td>
+<td>Qiskit</td>
+<td>15 mins</td>
+<td><a href="https://www.youtube.com/watch?v=aG_z149c9gI">Watch</a></td>
+</tr>
+<tr>
+<td>Quantum Oracles Explained</td>
+<td>Quantum Intuition</td>
+<td>10 mins</td>
+<td><a href="https://www.youtube.com/watch?v=Kz62M2o2u0A">Watch</a></td>
+</tr>
+</tbody>
+</table>
+<h3>📖 Books</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Computing: An Applied Approach</td>
+<td>Jack D. Hidary</td>
+<td>Practical implementation of early quantum algorithms (Chapter 5)</td>
+</tr>
+</tbody>
+</table>
+<h3>✅ Goals</h3>
+<ul>
+<li>[ ] Understand how quantum parallelism offers computational speedup.</li>
+<li>[ ] Implement the Deutsch-Jozsa algorithm using a quantum SDK.</li>
+<li>[ ] Distinguish between constant and balanced functions using the algorithm.</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p><strong>Deutsch-Jozsa Algorithm Implementation:</strong> Implement the Deutsch-Jozsa algorithm for a 2-qubit or 3-qubit system. Create both constant and balanced oracle functions and verify that the algorithm correctly identifies them.</p>
+<hr />
+<h2>Week 6: Introduction to Quantum Algorithms - Part 2 (Grover's Search)</h2>
+<p><strong>Effort:</strong> 3 hours/day</p>
+<h3>📚 Topics</h3>
+<ul>
+<li>Grover's Search Algorithm: Problem and Quantum Advantage</li>
+<li>Amplitude Amplification Mechanism</li>
+<li>Implementing the Grover Oracle</li>
+<li>Number of Iterations for Optimal Search</li>
+<li>Applications of Grover's Algorithm</li>
+</ul>
+<h3>🎥 YouTube Resources</h3>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Channel</th>
+<th>Duration</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Grover's Algorithm Explained</td>
+<td>Qiskit</td>
+<td>18 mins</td>
+<td><a href="https://www.youtube.com/watch?v=N_B6pL2v1_M">Watch</a></td>
+</tr>
+<tr>
+<td>Amplitude Amplification for Grover's Algorithm</td>
+<td>Quantum Computing UK</td>
+<td>12 mins</td>
+<td><a href="https://www.youtube.com/watch?v=9gWzK11Wk1w">Watch</a></td>
+</tr>
+<tr>
+<td>Grover's Algorithm: Quantum Search</td>
+<td>3Blue1Brown</td>
+<td>20 mins</td>
+<td><a href="https://www.youtube.com/watch?v=lvTqbM5Dq4Q">Watch</a></td>
+</tr>
+</tbody>
+</table>
+<h3>📖 Books</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Computing for Computer Scientists</td>
+<td>Noson S. Yanofsky &amp; Mirco A. Mannucci</td>
+<td>Detailed mathematical treatment of Grover's algorithm (Chapter 9)</td>
+</tr>
+</tbody>
+</table>
+<h3>✅ Goals</h3>
+<ul>
+<li>[ ] Understand the mechanics of amplitude amplification in Grover's algorithm.</li>
+<li>[ ] Implement Grover's search for a small unstructured database.</li>
+<li>[ ] Appreciate the quadratic speedup offered by Grover's algorithm.</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p><strong>Grover's Algorithm for Unstructured Search:</strong> Implement Grover's algorithm to find a specific marked item in a small unstructured database (e.g., 4 or 8 items). Design the oracle to mark the target item.</p>
+<hr />
+<h2>Week 7: Quantum Fourier Transform &amp; Shor's Algorithm Concepts</h2>
+<p><strong>Effort:</strong> 3 hours/day</p>
+<h3>📚 Topics</h3>
+<ul>
+<li>Classical Discrete Fourier Transform (DFT) Review</li>
+<li>Introduction to the Quantum Fourier Transform (QFT)</li>
+<li>QFT Circuit Implementation</li>
+<li>Phase Estimation Algorithm (PEA)</li>
+<li>Shor's Algorithm: Core Idea of Period Finding (without full implementation)</li>
+</ul>
+<h3>🎥 YouTube Resources</h3>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Channel</th>
+<th>Duration</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Fourier Transform Explained</td>
+<td>Qiskit</td>
+<td>17 mins</td>
+<td><a href="https://www.youtube.com/watch?v=H7tN14g8V2k">Watch</a></td>
+</tr>
+<tr>
+<td>Phase Estimation Algorithm</td>
+<td>Quantum Computing UK</td>
+<td>15 mins</td>
+<td><a href="https://www.youtube.com/watch?v=b0XNn9s3gY4">Watch</a></td>
+</tr>
+<tr>
+<td>Shor's Algorithm: The Quantum Threat to Encryption</td>
+<td>Veritasium</td>
+<td>12 mins</td>
+<td><a href="https://www.youtube.com/watch?v=wwn1_nQJ1d0">Watch</a></td>
+</tr>
+</tbody>
+</table>
+<h3>📖 Books</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Computing for the Very Curious</td>
+<td>Andy Matuschak &amp; Michael Nielsen</td>
+<td>Interactive exploration of QFT and Shor's algorithm concepts (online resource)</td>
+</tr>
+</tbody>
+</table>
+<h3>✅ Goals</h3>
+<ul>
+<li>[ ] Understand the classical DFT and its quantum counterpart.</li>
+<li>[ ] Be able to construct a QFT circuit for a small number of qubits.</li>
+<li>[ ] Grasp the core idea of period finding as used in Shor's algorithm.</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p><strong>Quantum Fourier Transform Implementation:</strong> Implement the QFT for 2 or 3 qubits using Qiskit. Apply it to a simple input state (e.g., a superposition) and observe the output.</p>
+<hr />
+<h2>Week 8: Quantum Error Correction (Basic Concepts)</h2>
+<p><strong>Effort:</strong> 3 hours/day</p>
+<h3>📚 Topics</h3>
+<ul>
+<li>Sources of Noise in Quantum Systems (Decoherence, Dephasing)</li>
+<li>Need for Quantum Error Correction (QEC)</li>
+<li>Classical Error Correction Analogy</li>
+<li>The Three-Qubit Bit-Flip Code</li>
+<li>The Three-Qubit Phase-Flip Code</li>
+</ul>
+<h3>🎥 YouTube Resources</h3>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Channel</th>
+<th>Duration</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Error Correction Explained</td>
+<td>IBM Quantum</td>
+<td>8 mins</td>
+<td><a href="https://www.youtube.com/watch?v=2tX28V_2D10">Watch</a></td>
+</tr>
+<tr>
+<td>Quantum Error Correction: Bit-Flip Code</td>
+<td>Qiskit</td>
+<td>15 mins</td>
+<td><a href="https://www.youtube.com/watch?v=bQc6p1X5f6M">Watch</a></td>
+</tr>
+<tr>
+<td>Decoherence and the Measurement Problem</td>
+<td>Closer To Truth</td>
+<td>10 mins</td>
+<td><a href="https://www.youtube.com/watch?v=F01y0m6x880">Watch</a></td>
+</tr>
+</tbody>
+</table>
+<h3>📖 Books</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Computing for Everyone</td>
+<td>Chris Bernhardt</td>
+<td>Accessible explanation of quantum noise and basic error correction (Chapter 10)</td>
+</tr>
+</tbody>
+</table>
+<h3>✅ Goals</h3>
+<ul>
+<li>[ ] Understand the challenges posed by noise in quantum systems.</li>
+<li>[ ] Grasp the basic principles of quantum error correction.</li>
+<li>[ ] Implement a simple QEC code (e.g., bit-flip) and demonstrate its function.</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p><strong>Bit-Flip Error Correction Simulation:</strong> Implement the three-qubit bit-flip code using Qiskit. Introduce a simulated bit-flip error on one of the qubits and show how the error can be detected and corrected.</p>
+<hr />
+<h2>Week 9: Quantum Hardware &amp; Architectures</h2>
+<p><strong>Effort:</strong> 3 hours/day</p>
+<h3>📚 Topics</h3>
+<ul>
+<li>Different Qubit Technologies (Superconducting, Trapped Ions, Photonic)</li>
+<li>Challenges in Building Quantum Computers (Scalability, Coherence)</li>
+<li>Quantum Computing Platforms (IBM Quantum Experience, Google Cirq, AWS Braket)</li>
+<li>Transpilation and Qubit Mapping</li>
+<li>Accessing Real Quantum Hardware</li>
+</ul>
+<h3>🎥 YouTube Resources</h3>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Channel</th>
+<th>Duration</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>How Quantum Computers Work</td>
+<td>IBM Quantum</td>
+<td>6 mins</td>
+<td><a href="https://www.youtube.com/watch?v=g_K8Ue24_68">Watch</a></td>
+</tr>
+<tr>
+<td>The Quantum Computer (Trapped Ion Qubits)</td>
+<td>Veritasium</td>
+<td>18 mins</td>
+<td><a href="https://www.youtube.com/watch?v=JhHMjc2D_m0">Watch</a></td>
+</tr>
+<tr>
+<td>Running a Quantum Circuit on a Real Quantum Computer</td>
+<td>Qiskit</td>
+<td>12 mins</td>
+<td><a href="https://www.youtube.com/watch?v=lU5b1jWb26s">Watch</a></td>
+</tr>
+</tbody>
+</table>
+<h3>📖 Books</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Computing: A Gentle Introduction</td>
+<td>Lumetta &amp; Mermin</td>
+<td>Overview of quantum hardware and experimental challenges</td>
+</tr>
+</tbody>
+</table>
+<h3>✅ Goals</h3>
+<ul>
+<li>[ ] Identify different physical implementations of qubits.</li>
+<li>[ ] Understand the practical challenges of building quantum computers.</li>
+<li>[ ] Be able to submit and run a quantum circuit on a real quantum device (via cloud access).</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p><strong>Running on Real Quantum Hardware:</strong> Take a simple circuit (e.g., Bell state preparation) and run it on an IBM Quantum Experience backend. Compare the results from the real hardware with those from a perfect simulator, noting the effects of noise.</p>
+<hr />
+<h2>Week 10: Variational Quantum Eigensolver (VQE)</h2>
+<p><strong>Effort:</strong> 3 hours/day</p>
+<h3>📚 Topics</h3>
+<ul>
+<li>Hybrid Quantum-Classical Algorithms</li>
+<li>Introduction to Variational Quantum Eigensolver (VQE)</li>
+<li>VQE for Molecular Energy Calculation (e.g., H2 molecule)</li>
+<li>Ansatz Circuits and Parameter Optimization</li>
+<li>Applications in Quantum Chemistry</li>
+</ul>
+<h3>🎥 YouTube Resources</h3>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Channel</th>
+<th>Duration</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>What is VQE? (Variational Quantum Eigensolver)</td>
+<td>IBM Quantum</td>
+<td>9 mins</td>
+<td><a href="https://www.youtube.com/watch?v=jWJ-z7g8zF8">Watch</a></td>
+</tr>
+<tr>
+<td>Variational Quantum Eigensolver (VQE) for Chemistry</td>
+<td>Qiskit</td>
+<td>20 mins</td>
+<td><a href="https://www.youtube.com/watch?v=zJ-2j3iTq0I">Watch</a></td>
+</tr>
+<tr>
+<td>Quantum Chemistry with Qiskit</td>
+<td>Qiskit</td>
+<td>15 mins</td>
+<td><a href="https://www.youtube.com/watch?v=wX-y5E2_5gA">Watch</a></td>
+</tr>
+</tbody>
+</table>
+<h3>📖 Books</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Machine Learning</td>
+<td>Peter Wittek</td>
+<td>Introduction to hybrid algorithms and VQE (Chapter 3)</td>
+</tr>
+</tbody>
+</table>
+<h3>✅ Goals</h3>
+<ul>
+<li>[ ] Understand the concept of hybrid quantum-classical computation.</li>
+<li>[ ] Grasp the working principle of the VQE algorithm.</li>
+<li>[ ] Be able to set up a basic VQE problem for molecular energy calculation.</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p><strong>VQE for H2 Molecule (Simplified):</strong> Implement a simplified VQE algorithm using Qiskit's Aqua (or similar framework) to find the ground state energy of the H2 molecule. Focus on setting up the Hamiltonian and the ansatz circuit.</p>
+<hr />
+<h2>Week 11: Quantum Machine Learning (QML) - Introduction</h2>
+<p><strong>Effort:</strong> 3 hours/day</p>
+<h3>📚 Topics</h3>
+<ul>
+<li>Overview of Quantum Machine Learning</li>
+<li>Quantum Feature Maps and Data Encoding</li>
+<li>Variational Quantum Classifiers (VQC)</li>
+<li>Quantum Support Vector Machines (QSVM) Concepts</li>
+<li>Current Challenges and Future Prospects of QML</li>
+</ul>
+<h3>🎥 YouTube Resources</h3>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Channel</th>
+<th>Duration</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Introduction to Quantum Machine Learning</td>
+<td>IBM Quantum</td>
+<td>10 mins</td>
+<td><a href="https://www.youtube.com/watch?v=0hKqX6-vL2Q">Watch</a></td>
+</tr>
+<tr>
+<td>Quantum Support Vector Machines</td>
+<td>Qiskit</td>
+<td>18 mins</td>
+<td><a href="https://www.youtube.com/watch?v=0o9fJc0B228">Watch</a></td>
+</tr>
+<tr>
+<td>Quantum Feature Maps Explained</td>
+<td>Xanadu Quantum Computing</td>
+<td>14 mins</td>
+<td><a href="https://www.youtube.com/watch?v=Yf7-T01b444">Watch</a></td>
+</tr>
+</tbody>
+</table>
+<h3>📖 Books</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Machine Learning: What Quantum Computing Means to Data Mining</td>
+<td>Wittek Peter</td>
+<td>Foundational concepts of QML and algorithms (Chapter 4-5)</td>
+</tr>
+</tbody>
+</table>
+<h3>✅ Goals</h3>
+<ul>
+<li>[ ] Understand how quantum mechanics can be applied to machine learning tasks.</li>
+<li>[ ] Grasp the concept of quantum feature maps for data encoding.</li>
+<li>[ ] Implement a basic quantum classifier for a simple dataset.</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p><strong>Quantum Classifier for Iris Dataset (Binary):</strong> Use Qiskit's Machine Learning module to implement a variational quantum classifier for a binary classification task (e.g., classifying two types of Iris flowers). Focus on defining a feature map and a variational circuit.</p>
+<hr />
+<h2>Week 12: Advanced Topics &amp; Project Consolidation</h2>
+<p><strong>Effort:</strong> 3 hours/day</p>
+<h3>📚 Topics</h3>
+<ul>
+<li>Quantum Supremacy and Quantum Advantage</li>
+<li>Quantum Cryptography (e.g., BB84 Protocol)</li>
+<li>Current Research Frontiers (NISQ era, Fault-Tolerant QC)</li>
+<li>Quantum Internet and Quantum Communication</li>
+<li>Review of Key Concepts and Future Directions</li>
+</ul>
+<h3>🎥 YouTube Resources</h3>
+<table>
+<thead>
+<tr>
+<th>Video</th>
+<th>Channel</th>
+<th>Duration</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>What is Quantum Supremacy?</td>
+<td>Google AI</td>
+<td>7 mins</td>
+<td><a href="https://www.youtube.com/watch?v=Sy6x0Cq_2B0">Watch</a></td>
+</tr>
+<tr>
+<td>Quantum Cryptography (BB84 Protocol)</td>
+<td>DrPhysicsA</td>
+<td>20 mins</td>
+<td><a href="https://www.youtube.com/watch?v=E7qY6K7v-7s">Watch</a></td>
+</tr>
+<tr>
+<td>The Future of Quantum Computing</td>
+<td>World Economic Forum</td>
+<td>10 mins</td>
+<td><a href="https://www.youtube.com/watch?v=R9_uQJ8vj-o">Watch</a></td>
+</tr>
+</tbody>
+</table>
+<h3>📖 Books</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Author</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quantum Computing Since Democritus</td>
+<td>Scott Aaronson</td>
+<td>Philosophical and theoretical insights into the limits and possibilities of computation</td>
+</tr>
+</tbody>
+</table>
+<h3>✅ Goals</h3>
+<ul>
+<li>[ ] Understand the concepts of quantum supremacy and quantum advantage.</li>
+<li>[ ] Grasp the principles of quantum key distribution (BB84).</li>
+<li>[ ] Identify major challenges and promising research areas in quantum computing.</li>
+<li>[ ] Consolidate knowledge by working on a final project.</li>
+</ul>
+<h3>🛠️ Projects</h3>
+<p><strong>Quantum Computing Portfolio Project:</strong> Choose one of the following: 1) Implement a small quantum game (e.g., Quantum Tic-Tac-Toe). 2) Explore a more complex VQE problem for a different molecule. 3) Implement a simplified BB84 protocol simulation. 4) Extend a previous project with more features or a deeper analysis.</p>
+<hr />
+<h2>Skills Acquired</h2>
+<ul>
+<li>Fundamental principles of quantum mechanics (superposition, entanglement, measurement)</li>
+<li>Proficiency in Dirac notation and Bloch sphere representation</li>
+<li>Ability to design and simulate quantum circuits using Qiskit (or similar SDKs)</li>
+<li>Understanding of key quantum algorithms (Deutsch-Jozsa, Grover's, QFT, Shor's concepts)</li>
+<li>Basic knowledge of quantum error correction principles</li>
+<li>Familiarity with different quantum hardware architectures and real-world challenges</li>
+<li>Practical experience with hybrid quantum-classical algorithms like VQE</li>
+<li>Introduction to the concepts and applications of Quantum Machine Learning</li>
+<li>Ability to run circuits on real quantum hardware (cloud access)</li>
+<li>Problem-solving using quantum computational approaches</li>
+</ul>
+<h2>Next Steps</h2>
+<ul>
+<li>Deep dive into specific quantum algorithms (e.g., full Shor's, HHL).</li>
+<li>Explore advanced topics in Quantum Machine Learning (e.g., quantum neural networks, quantum kernel methods).</li>
+<li>Study advanced quantum error correction codes (e.g., surface codes).</li>
+<li>Contribute to open-source quantum computing projects (e.g., Qiskit, PennyLane).</li>
+<li>Pursue academic research or industry roles in quantum computing.</li>
+<li>Learn about quantum compilers and optimization techniques.</li>
+</ul>
+</body>
+</html>

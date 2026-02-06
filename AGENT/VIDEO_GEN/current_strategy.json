@@ -1,1 +1,15 @@
-{"video_prompt": "A slow, gentle dolly-in shot reveals a cozy kitchen bathed in warm, soft-box diffusion lighting, mimicking early morning sun. Steam rises from a freshly brewed cup of coffee on a rustic wooden table. The camera subtly pushes in towards the cup, highlighting the intricate patterns of the ceramic mug and the gentle swirling of the coffee, with a shallow depth of field blurring the background. Rim lighting subtly outlines the edges of the mug and the steam, creating a serene and inviting atmosphere.", "motion_bucket_id": 75, "audio_prompt": "The gentle gurgle and hiss of a coffee maker brewing, followed by the soft clinking of a spoon against ceramic. A subtle, warm ambient jazz melody plays in the background, accompanied by the distant, faint chirping of morning birds and the soft rustle of a newspaper turning.", "overlay_text": "Your Perfect Morning Ritual", "aspect_ratio": "9:16", "video_title": "Start Your Day Right: The Perfect Coffee Ritual", "tags": ["#MorningCoffee", "#CoffeeLover", "#MorningRoutine", "#RelaxingVibes", "#DailyRitual"]}
+{
+  "video_prompt": "The camera executes a slow, deliberate dolly-in, starting from a medium shot of a sleek, modern smart TV displaying a typical home screen cluttered with app icons and small ad banners. The ambient lighting is provided by soft-box diffusion from an unseen source, gently illuminating the minimalist living space. As the camera glides closer, a hand, highlighted by a subtle rim lighting, enters the frame, holding a minimalist remote control. The focus tightens on the remote and the TV screen as the hand expertly navigates the menus, the screen's practical lighting casting a soft glow on the fingers, culminating in the activation of a hidden 'developer mode' menu.",
+  "motion_bucket_id": 85,
+  "audio_prompt": "A low, almost imperceptible hum of the smart TV permeates the quiet room. Subtle, crisp clicks of the remote control buttons are heard as the hand navigates the interface. As the 'developer mode' is activated, a soft, ascending electronic chime plays, followed by a gentle, synthetic 'whoosh' sound effect as the ad banners and bloatware icons subtly fade and disappear from the screen, leaving a clean, streamlined interface. A very low-volume, ambient electronic score with a hint of mystery underpins the scene.",
+  "overlay_text": "THE SECRET TV HACK: NO ADS, NO BLOATWARE!",
+  "aspect_ratio": "9:16",
+  "video_title": "Unlock Your Smart TV's Hidden Developer Mode: Remove All Ads & Bloatware!",
+  "tags": [
+    "#SmartTVHack",
+    "#NoAds",
+    "#DeveloperMode",
+    "#TechTips",
+    "#TVHacks"
+  ]
+}
