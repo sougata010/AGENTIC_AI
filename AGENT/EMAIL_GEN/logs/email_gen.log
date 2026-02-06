@@ -1,0 +1,21 @@
+2026-02-06 19:52:53,522 - INFO - API Key Found
+2026-02-06 19:54:00,412 - INFO - User requested email for topic: email to a hr for the placement in their company
+2026-02-06 19:54:10,072 - INFO - Generating email...
+2026-02-06 19:54:10,079 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-06 19:54:13,486 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-06 19:54:13,494 - INFO - Email generated successfully
+2026-02-06 19:54:13,499 - INFO - Email saved to emails/20260206_195413_email to a hr for the placemen.txt
+2026-02-06 19:56:16,243 - INFO - API Key Found
+2026-02-06 19:56:38,288 - INFO - User requested email for topic: email to hr of tcs for job application name sougata 
+2026-02-06 19:56:43,365 - INFO - Generating email...
+2026-02-06 19:56:43,368 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-06 19:56:48,336 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-06 19:56:48,345 - INFO - Email generated successfully
+2026-02-06 19:56:48,349 - INFO - Email saved to emails/20260206_195648_email to hr of tcs for job app.txt
+2026-02-06 19:59:40,498 - INFO - API Key Found
+2026-02-06 19:59:55,459 - INFO - User requested email for topic: email to a friend asking about how he is 
+2026-02-06 20:00:06,882 - INFO - Generating email...
+2026-02-06 20:00:06,889 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-06 20:00:09,541 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-06 20:00:09,547 - INFO - Email generated successfully
+2026-02-06 20:00:09,551 - INFO - Email saved to emails/20260206_200009_email to a friend asking about.txt

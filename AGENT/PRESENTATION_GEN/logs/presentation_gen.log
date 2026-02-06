@@ -1,0 +1,27 @@
+2026-02-06 20:10:41,281 - INFO - API Key Found
+2026-02-06 20:11:00,662 - INFO - Generating presentation on: quantum computation with 10 slides
+2026-02-06 20:11:14,759 - INFO - Generating presentation content...
+2026-02-06 20:11:14,764 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-06 20:11:26,466 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-06 20:11:26,472 - INFO - Content generated successfully
+2026-02-06 20:11:26,610 - INFO - Presentation saved to presentations/20260206_201126_quantum computation.pptx
+2026-02-06 20:15:03,665 - INFO - API Key Found
+2026-02-06 20:15:21,530 - INFO - Generating presentation on: quantum computation with 15 slides
+2026-02-06 20:15:37,234 - INFO - Generating presentation content...
+2026-02-06 20:15:37,237 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-06 20:15:52,806 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-06 20:15:52,812 - INFO - Content generated successfully
+2026-02-06 20:16:04,843 - INFO - Presentation saved to presentations/20260206_201604_quantum computation.pptx
+2026-02-06 20:21:11,960 - INFO - API Key Found
+2026-02-06 20:21:29,222 - INFO - Generating presentation on: quantum computation with 10 slides
+2026-02-06 20:21:45,293 - INFO - Generating content...
+2026-02-06 20:21:45,296 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-06 20:21:54,664 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-06 20:21:54,668 - INFO - Content ready!
+2026-02-06 20:21:56,775 - INFO - Fetched image: 284011 bytes
+2026-02-06 20:22:00,156 - INFO - Fetched image: 106091 bytes
+2026-02-06 20:22:04,393 - INFO - Fetched image: 128405 bytes
+2026-02-06 20:22:19,715 - WARNING - Image fetch failed: HTTPSConnectionPool(host='picsum.photos', port=443): Read timed out. (read timeout=15)
+2026-02-06 20:22:33,515 - INFO - Fetched image: 84753 bytes
+2026-02-06 20:22:36,311 - INFO - Fetched image: 177492 bytes
+2026-02-06 20:22:36,404 - INFO - Saved: presentations/20260206_202236_quantum computation.pptx
