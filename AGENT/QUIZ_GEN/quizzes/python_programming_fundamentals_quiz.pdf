@@ -1,0 +1,252 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 6 0 R /F5 9 0 R /F6 10 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/Contents 30 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Contents 31 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F6 /Subtype /Type1 /Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Outlines 15 0 R /PageMode /UseNone /Pages 28 0 R /Type /Catalog
+>>
+endobj
+14 0 obj
+<<
+/Author () /CreationDate (D:20260206172242+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260206172242+05'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title () /Trapped /False
+>>
+endobj
+15 0 obj
+<<
+/Count 3 /First 16 0 R /Last 16 0 R /Type /Outlines
+>>
+endobj
+16 0 obj
+<<
+/Count -1 /Dest [ 5 0 R /Fit ] /First 17 0 R /Last 17 0 R /Parent 15 0 R /Title (Introduction to Python Programming Quiz)
+>>
+endobj
+17 0 obj
+<<
+/Count -10 /Dest [ 5 0 R /Fit ] /First 18 0 R /Last 27 0 R /Parent 16 0 R /Title (Q1. Which of the following is the correct way to declare a variable and assign an integer value of 10 in Python?)
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Next 19 0 R /Parent 17 0 R /Title (Q1. Which of the following is the correct way to declare a variable and assign an integer value of 10 in Python?)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Next 20 0 R /Parent 17 0 R /Prev 18 0 R /Title (Q2. Python uses curly braces {} to define code blocks like loops and functions.)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 7 0 R /Fit ] /Next 21 0 R /Parent 17 0 R /Prev 19 0 R /Title (Q3. The Python keyword used to define a function is ___.)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 7 0 R /Fit ] /Next 22 0 R /Parent 17 0 R /Prev 20 0 R /Title (Q4. What will be the output of the following Python code snippet?x = [1, 2, 3]y = xprint\(y[0]\))
+>>
+endobj
+22 0 obj
+<<
+/Dest [ 8 0 R /Fit ] /Next 23 0 R /Parent 17 0 R /Prev 21 0 R /Title (Q5. Which of the following is an immutable data type in Python?)
+>>
+endobj
+23 0 obj
+<<
+/Dest [ 8 0 R /Fit ] /Next 24 0 R /Parent 17 0 R /Prev 22 0 R /Title (Q6. The 'elif' statement in Python is used to check multiple conditions sequentially after an initial 'if' statement.)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 25 0 R /Parent 17 0 R /Prev 23 0 R /Title (Q7. To iterate over a sequence of numbers from 0 up to \(but not including\) 5, you would use the range\(\) function as for i in range\(___\).)
+>>
+endobj
+25 0 obj
+<<
+/Dest [ 11 0 R /Fit ] /Next 26 0 R /Parent 17 0 R /Prev 24 0 R /Title (Q8. What is the primary purpose of a 'try-except' block in Python?)
+>>
+endobj
+26 0 obj
+<<
+/Dest [ 12 0 R /Fit ] /Next 27 0 R /Parent 17 0 R /Prev 25 0 R /Title (Q9. Consider the following code:my_list = [1, 2, 3, 4]my_list.append\([5, 6]\)What will be the length of my_list after this operation?)
+>>
+endobj
+27 0 obj
+<<
+/Dest [ 12 0 R /Fit ] /Parent 17 0 R /Prev 26 0 R /Title (Q10. In Python, a dictionary stores data as key-value pairs, where each key must be ___.)
+>>
+endobj
+28 0 obj
+<<
+/Count 5 /Kids [ 5 0 R 7 0 R 8 0 R 11 0 R 12 0 R ] /Type /Pages
+>>
+endobj
+29 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1149
+>>
+stream
+Gb!Sk?#SIU'Rf_Z\1\$6Tk22]WPq[j9/CZ<YbVlBQbFk'mBDj(:EO_dDZ>-OP3obP69>KM+L<2A1<I^d%PR96U(H9PLM'op*2`5bQi^i\c@?6G+FOc=e&e5G;nV@01lDYV8gr%Y&sdKsF18`[K'.B>rt-\ZX<fDFBU`n*j,/YK6WsO)"M8ZA(WQr^''Y`0<&5s9+A?as2%]du''_Is]Q7pq9tS'GQ%QMsPJ4`Gek'/ll`;Y>S&8rQs*>%:B1ROChOb;7',Bb6E3ppSL]PnuaUc.4-db.;3*1^m0p+3>peno\C@ZN2&[Fda!-Fqm(HfEd4=3Bml(M$Fp_ELiYasFqC16_#"#RbglRC5#q#NFZESS*=<Z9S%70A%WCA*)aSp%"$6oVqNBlmFgW@^ik,f?agm`tg'A5.]DK;Ne`jB?NXZHF_+KW;(Y?K1q<A@.&AF176.1a,Hp6RJKN;@Jo&C4-m\;BY16$m%\KgB:;-*$XH58eiibEi/>]gaF99FPKM]i/\88?U-K$p;4VH.Z/!*6c:n#+*gl<-?!=\p&8Jr9jVA<JIK8)[EZu)Cq;'?MWYJ=?sRR1VT/%u1YsScJotjL&&q_!]eA%OZ\]BiCdN6^.D)0F@Zi#:4]!-j.[Pr:N];cO*7)<_/.j*O7s6esGuqBO9/'MtA$h4C$pLfo2Zr'7XN_mT(T,k)$bDK(e&-#o@68-9P'A[MfF@KoI%jdTm\+R2F,qZQV^d:?HB12\k0qf+$,a9'9DBCBiROC$kM$C4@LjPK#OBO-B(%FthLh35$6%2EO.*Ud_TZlFe3bYF.c-;B*]8XA@1$)XrBUS/G]S1L*Y>=>Wp5Ym:2aCD1j)V4*:B<QR@nmO\-7eL8BfRHZ+RbT'Ud.W1(+/0k>m3(g""amX84O%fDTFPZI7m=TW^CiCq1tj9ncphG*E&4&cd\+=B`)c[:%>nS(e]+2(dPS>,"G?J[LYWFMR@'@Bm_X^;.Q`;kg4,d1,-4LMb,he73:+Z9CgB;,'UrQ5hgk0of.lM>IW77b0W6CCl!PeO[f-S`TY;m@R7%c)gMgChhn@W:DSN'_[H9U8f!(-CK!op]T<C3Jt3fX@[l2^,kTMF6%?AEn8h:1"XrfDc&-AO&#O9:!bu/<EaTYG?TaC^Y:Z<"o~>endstream
+endobj
+30 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1010
+>>
+stream
+Gb!SkgJ6Kg&:Ml+bZg`l`I%+aWN*J);MD-*>3Z2UaOk:fin3LAUCaCHhsi`QTb,8(>#:&eCH&ksR<.Mr@gWuXe3'K<^i9>Z4URE>O8p"`5]@3G60Cb9O#NWuAffpJ&Iu=2:T3;nI!9.i3j=[Sq%!YWKb!M_@8e+sOjW/#Alj;+i`BkGF/dp6[@I>@h-C<#=&opbjaqh5?)tsk*d;K!08L2SWQ$@RTZ7fT#^)OeHlu+%b$?.?':11Sa+IZmC=SuR-.!%+;OS'244mn?KspX`A,S9tffg"Tk3_sRQ:"oL2\<S=qk)n3b0-b`LTN:LK'<Qp)T<UW[RE=@Cl.?AI[l+;W7)r/"SH?'LID]:;O3F,Z-9V$#6m9=@B*m!%O4!d"^OAEP;JU;'sWF]XGH;e4ie!?d6qP%\5Bc@,]L%EK2BZ^EXYO5+AS\(Ei@E$-''.8gaT'P8S_Y#:Md;sFc,pk:(?FH@ja3f&_Ip/[`;XCAFO`40\`GBC!:#F;dh]Q8Z;I'@A7q)^u<-f5&kAifXBg#**qU_%pe5**]hD^hWG#nTmWO4:<o_jMJJrP4GT"lEl/`i--TXC0WT!b_Y5UAY"/LrXA[)d;2`2\mql^]olY'8D<a<Zrje-!3(5To-Dp83*lbhrPg_H\dV+g.fceG@SA@u,MK'OT6>t.Dg"(CqTJ%6irAmp^h;&tO)Sf[l1:F;1<Ch<G9m72s(q8V2:th^p[uTclQ29%R6b#WYL>%ju[9mj/(Qi'iUj8E9N`':g`;3[AJd]$GOT-[364ioM$oL`-/;"lJ)Q>;8H9BSO,\E>V=]S5Fr:ZhAR'KuZl$+cPLO47VQZNbj*q63J:@?.Pc1PIWG%k7,&,$c<1=(;8ji]"K8B0n)ZqU;e[++6rJ.%c9-$)1W=sN#"U?QoTc.Z$9ZUVE=e>VPJW&FZ5B,_cE97!udC]$nV(7[4fG,A64[c5Q0VUWsOb1gVdDkDr8]<<ZERN//>^SYsHFgqmn^/Ej0oPEoLc7]lGITu~>endstream
+endobj
+31 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1062
+>>
+stream
+Gb!TUhf$st&BE]*=5;O7g._Dp:*q+eqgjFo^`X7#N!D"Y=$tt`M6!clIlun)/YuX7W^96d<Ot#lI<V<in%KJ[r6Y.!0*0p@nEPT,AWTW:$6gV)K_'#%5J"^i5)s4]i?B$l-lE\`EfP4m?IKaOnS4[.V7>Fibh):0#[Q,K&P6(U+Y1qiiCX<4Y:^Y;KZW-UTo)F(!b$[ZY(21DHr](@iVCAsTq1ncE[NL_qqaBKS/AZ+0FYZhNIqDIL5.#OG@U3D1_",sc,A,OjT^)9IVPP'V1HKA*ib^u-MR:3H[+`Y2E6T0ibS/qFInu!_)9(T;jbum%li"KZ$AU8eYJZPQ9&bDb?i'EHtr7%fENa,5!ub[/_d<XKS:OHr$FPHlbfY/mF1rpCMuh,4<ZIg$@`cZH.ueJ&sG:MqU1X,&]JQB8N\:R'4$b(hQE$+'%J:"8mIlrP%+@,,fM7LFLCbE,f'V:aBL+u-<3oBF6d]G$LPWpjim%[_SB9#%=W;0&0uX.phAjHlq/biljluimDXl[oR/O*KV[kpro9YB(R[gXLu\3H4W(F8-qcuFfU8:(Cd'BIiWMk0[^-Tq6<;pqquk;3,T0)"m-;>b.FRZXcDK2[dP`E;Ri^/e!Nc!Dhn-dAW`8:*qR5L1Y*i-4$$[Z8`d8]U\(<;0:?WuFPU3<hF\@A>3#sD5cPkQMIV`XT&&h>rMnS&*KF\cMB+==:+'pk;/'NIt\/_G)c^NTk5I\sN^S<9G>TM?B#B7WgmI*i'Omc/8>Ve<]YC8Ie[>8l>%5sop+2P*8W86sqEbk9Yk8n'tdOm@dCsBCpMO=Zhm9JaM/3uJMmad=_:V<YMY>&ehZo,HUK(6,N=bFJr)ae+_BB@O\c>&,)k]Q`ge.1MZ8=Zj4c5,4\"l`;OeNGX<%->cc.I?*q)R"Re'3Em7kau"1A5Rd;;j75H@"l(W,fhJp[K1/r2",':c0D$*4Q[cB->14@35Dq'!cqp_BAtbA6^$p\Wi"7fq78'6!qkNt&[7Kfs)0J1cqRY+gTQ;W;6)V>Iu8).2dPXAfoMVsD2Y,o'8+[cV1a#g~>endstream
+endobj
+32 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1124
+>>
+stream
+Gb!;c;/b2I&:XAW\2Ppj_ho-W8pMkS2;KtY@;,o;`B^*;Pc[t1<D&]qTKdlqfp/,RM*):S()ml3PIru+hqc=/"WtLd^Ln:sFTSc';4n>\*%30SP4rpZ9YO8>nY3YK/0Y**GmH0a#n<X0f,b@L&2*M<Ij7hq4G[B.6.9rF(.<f`.Nk_;(C?mVIU9]t&.p7ZDaG``49iZI5Q_>2h/ULg_0_rH[B`jMOF6JkrNXB2^MX6$[T!-Lnr!nU[L`E3O\O2a#Tc,"->pQJAZF4f0`(%)X;"?.=l`MKH`Clr'`%Y.RPo"_V0!)Z=djI8)q.)g+Bti3$fo;o\l]ZlH<NXIo_,i3`R(?ug8[gu$GD+lZ]*@W4q=G6`X;8N?':DFoJp@M*m-?HIn[;_q=*-,pC@uE6r$-Di_'S"+#=Z:PfWVk?=M(UOJ/0BdfY=-L;W%'6_&gG?mm@BbE*9D'F)WTL`^.UPS%rd6[pTm,R0-,=i;6&?OB)Q7XaZgcL<t%h,X3l2NV-ATsq1J%*ZE^Xp&ZG.!/L5%V4Wnb^,#pVCNJ0+cDA7*UdGCa0VaOWjt('fF@3mFmsa'V_^gQUs5%@NqEIe_Tp<[h;&Z1hT9R@.7lKsh0qU$eUJ?(*<07Z!D'N8SB$a6?r^TKprlUN@_RQoD3=!Mes5Xb$7a9GY(H,`6!\#&nD9PD3B;1.M#Zg!I=a/0;g6#',Fgs,[/M"Eg5Um*plFdl6e:YVH8+FJ;X(oiR\/mNMaq,P![#\RET?&Wn\%YH#':&c#/L`Caf3QQs1q"pT7i."m"#L--!Ut[Mc$8E\T/Dspp<XjG++u?(KG3/:j9?+9s7VI9O#-><8TH2[o9di%A"<5(Op>VQ-ld2"Y8NYkc+T0\o;.2lJD!/?BckGVs],T@cYmcXJcUB0.*sY`)%:HNHoRpAKMu52I="Y6k1C_P/TFRFJMM=bLaNrjb6a&&mDDmg)TD>o$I=`Q<]G@eVhH<H5+Pf90NO%ARYc:!o"@RgSgrC1R3/q\N(1+)TO(;ntOP1FVNZU.bB0H:gsZ[dY8BI44hX?5)6C-3u_?h7tg4t6i2$@g7kU,D)#8"a)ukG.^S>2eXVICVh5BtSIe5<5>V<':"f3e;Ze@r"&kh>-i~>endstream
+endobj
+33 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1376
+>>
+stream
+Gb!;cD/\/e&H88.ESoaa%P(-c,m>-?V+HFW*O'>ap7X)?>,#jdPiS!*>Qaln4&UN!;Fg7>?sP<STLF`^I%It16OEj#e3EO;i,Ss=hGKphN2AiX@5.NXf;"PU-T?;!p#n(U&`\g;&p'4H;2!gjkb]?Fnb2EBP!gin@JQRM7d/E@*0<#<0oS`38tmSS(>lb4+XLR`]HB$;A!R-%=[]"fLjNTtRDIhXb<h+Z1od]2c=$:BGCK-li%I"t7WSm6NEMgq0=b=EV_HM@IL"$4YH)8A=/Qg+REn<uC^JSE!&b4eWYq24C/cWJ)H.R_j$>U+)RSN\==X6[D'1dScJ@so%4t7:1SPk@d(3QC>OU8/3uGJqYq)0i<d-?OOa2@.c&-<A+kS^pm$hW1B8jcF#Pf#$pF"d#J,AK+nr4:A-m`jO-MU*Kn'=_JPE5pKQbSKbJ;90"D<ip+%#N(erYXVQQG8A(*Ii(Q;][*3*.Q$O:Jt`O'6B?LG`,Cu65kp@ZsI5HH!SLLEcnFJD;]d98;@`d+W:FZ[!kZd@Nhd]4STa(JU\T1r@o)t;PH$BUn:B)C=^V&T#*NJiiQ:7od&j`S\(IA0l=Qj(a/K<)BW?O*6Jhj$"B1n-:JJC7-Y)C86M6A9nWcbdc&9Q1l*gr0H#Jh_&?peKCMQ.V^cV-Zb!rn2$Nm]UO&X)$i&Z,qZZ#+d;$FR6Pg@+R"W/@rR>s*;]c/R;_TGa>K&K6qt^M,RO$`Qo^/&Un\@gb;MS*LUZ.*Hn`0DGY?nFB9]lr2]SIF<:O+&PY8XajIa$fH0Om4lT`VoBbhi&'`fJ"g$sk>9Y8XaJIa"tN^3L]9P]$)6mslf]+761YEosp?+&RqG]9K0o^K_g`[]s?b]Rk&RaO^<;gHX>,k^*A=J-$1f<WSpC/?$R?0XJ3P<<E<W?r8^nP\F=tG>7H.!7'_MJ$0$G@Xt)ODHG/<Q,>a+FAcS/Fo2FqbJID_/%LpeCP+u&`SEu`HHEI*m[]"K6>'tmV'.DQ.\G`bmZt7Z0_)sd0hgi,XnuHS`%[,UlPDASF^^N.(hC\P65k*O3d$HT)@DbATFti?[],7n:l%S#2X]Ykr*JS&Kssmu3rGd>l32cqI8IAn`ag$+li91kqirYtF8#>$?tq+XG5\H+^QXCR)aosu#Q%:WiOoT])\pH&;P,ZFnC.ZB/DEWfZohIU;SORTJ$58A]+i&j[bJT(Y8p9-XDD\-d0Iu`55r1,a@541);-.apK5>e8sBuHC[9R:'lh3;SL-\Xg(!uf_ngSjeXaY61K``maf;e>8=+1<L2GXuQL6_KIFV?cphVn/Md"j"'T^=[Un5\&F`Sk][(-h'+1J'S;WS7pY3W]CEH"6QQ#Y?2rps:u-[u4:^'<j~>endstream
+endobj
+xref
+0 34
+0000000000 65535 f 
+0000000061 00000 n 
+0000000143 00000 n 
+0000000250 00000 n 
+0000000362 00000 n 
+0000000477 00000 n 
+0000000682 00000 n 
+0000000801 00000 n 
+0000001006 00000 n 
+0000001211 00000 n 
+0000001321 00000 n 
+0000001427 00000 n 
+0000001633 00000 n 
+0000001839 00000 n 
+0000001926 00000 n 
+0000002179 00000 n 
+0000002253 00000 n 
+0000002397 00000 n 
+0000002615 00000 n 
+0000002808 00000 n 
+0000002981 00000 n 
+0000003131 00000 n 
+0000003321 00000 n 
+0000003478 00000 n 
+0000003689 00000 n 
+0000003926 00000 n 
+0000004087 00000 n 
+0000004316 00000 n 
+0000004486 00000 n 
+0000004572 00000 n 
+0000005813 00000 n 
+0000006915 00000 n 
+0000008069 00000 n 
+0000009285 00000 n 
+trailer
+<<
+/ID 
+[<c566f4636bbcf444823591710a600d45><c566f4636bbcf444823591710a600d45>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 14 0 R
+/Root 13 0 R
+/Size 34
+>>
+startxref
+10753
+%%EOF

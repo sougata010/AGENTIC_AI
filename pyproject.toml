@@ -9,6 +9,7 @@ dependencies = [
     "fpdf2>=2.8.5",
     "langchain>=1.2.8",
     "langchain-google-genai>=4.2.0",
+    "langchain-ollama>=1.0.1",
     "langchain-openai>=1.1.7",
     "markdown>=3.10.1",
     "pdfkit>=1.0.0",
