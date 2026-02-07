@@ -25,3 +25,16 @@
 2026-02-06 20:22:33,515 - INFO - Fetched image: 84753 bytes
 2026-02-06 20:22:36,311 - INFO - Fetched image: 177492 bytes
 2026-02-06 20:22:36,404 - INFO - Saved: presentations/20260206_202236_quantum computation.pptx
+2026-02-07 20:00:16,202 - INFO - API Key Found
+2026-02-07 20:00:33,240 - INFO - Generating presentation on: system design with 10 slides
+2026-02-07 20:00:43,872 - INFO - Generating content...
+2026-02-07 20:00:43,880 - INFO - AFC is enabled with max remote calls: 10.
+2026-02-07 20:00:51,596 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-02-07 20:00:51,602 - INFO - Content ready!
+2026-02-07 20:00:52,794 - INFO - Fetched image: 128243 bytes
+2026-02-07 20:00:54,631 - INFO - Fetched image: 86653 bytes
+2026-02-07 20:00:57,918 - INFO - Fetched image: 158835 bytes
+2026-02-07 20:00:59,502 - INFO - Fetched image: 71323 bytes
+2026-02-07 20:01:03,329 - INFO - Fetched image: 229157 bytes
+2026-02-07 20:01:05,636 - INFO - Fetched image: 147532 bytes
+2026-02-07 20:01:05,707 - INFO - Saved: presentations/20260207_200105_system design.pptx
