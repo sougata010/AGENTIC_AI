@@ -1,0 +1,469 @@
+{
+  "c000": {
+    "concept_id": "c000",
+    "name": "Introduction to Machine Learning",
+    "description": "Core concept: Introduction to Machine Learning",
+    "prerequisites": [],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c001": {
+    "concept_id": "c001",
+    "name": "Types of Machine Learning",
+    "description": "Core concept: Types of Machine Learning",
+    "prerequisites": [
+      "c000"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c002": {
+    "concept_id": "c002",
+    "name": "Data and Features",
+    "description": "Core concept: Data and Features",
+    "prerequisites": [],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c003": {
+    "concept_id": "c003",
+    "name": "Data Preprocessing",
+    "description": "Core concept: Data Preprocessing",
+    "prerequisites": [
+      "c002"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c004": {
+    "concept_id": "c004",
+    "name": "Training and Testing Data Split",
+    "description": "Core concept: Training and Testing Data Split",
+    "prerequisites": [
+      "c002"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c005": {
+    "concept_id": "c005",
+    "name": "Machine Learning Model Concept",
+    "description": "Core concept: Machine Learning Model Concept",
+    "prerequisites": [
+      "c000"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c006": {
+    "concept_id": "c006",
+    "name": "Model Training Process",
+    "description": "Core concept: Model Training Process",
+    "prerequisites": [
+      "c005",
+      "c004"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c007": {
+    "concept_id": "c007",
+    "name": "Model Prediction",
+    "description": "Core concept: Model Prediction",
+    "prerequisites": [
+      "c005"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c008": {
+    "concept_id": "c008",
+    "name": "Supervised Learning Overview",
+    "description": "Core concept: Supervised Learning Overview",
+    "prerequisites": [
+      "c001"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c009": {
+    "concept_id": "c009",
+    "name": "Regression Problems",
+    "description": "Core concept: Regression Problems",
+    "prerequisites": [
+      "c008"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c010": {
+    "concept_id": "c010",
+    "name": "Classification Problems",
+    "description": "Core concept: Classification Problems",
+    "prerequisites": [
+      "c008"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c011": {
+    "concept_id": "c011",
+    "name": "Linear Regression Algorithm",
+    "description": "Core concept: Linear Regression Algorithm",
+    "prerequisites": [
+      "c009",
+      "c006"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c012": {
+    "concept_id": "c012",
+    "name": "Logistic Regression Algorithm",
+    "description": "Core concept: Logistic Regression Algorithm",
+    "prerequisites": [
+      "c010",
+      "c006"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c013": {
+    "concept_id": "c013",
+    "name": "Unsupervised Learning Overview",
+    "description": "Core concept: Unsupervised Learning Overview",
+    "prerequisites": [
+      "c001"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c014": {
+    "concept_id": "c014",
+    "name": "Clustering Concept",
+    "description": "Core concept: Clustering Concept",
+    "prerequisites": [
+      "c013"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c015": {
+    "concept_id": "c015",
+    "name": "K-Means Clustering Algorithm",
+    "description": "Core concept: K-Means Clustering Algorithm",
+    "prerequisites": [
+      "c014",
+      "c006"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c016": {
+    "concept_id": "c016",
+    "name": "Dimensionality Reduction Concept",
+    "description": "Core concept: Dimensionality Reduction Concept",
+    "prerequisites": [
+      "c013"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c017": {
+    "concept_id": "c017",
+    "name": "Principal Component Analysis (PCA)",
+    "description": "Core concept: Principal Component Analysis (PCA)",
+    "prerequisites": [
+      "c016",
+      "c003"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c018": {
+    "concept_id": "c018",
+    "name": "Reinforcement Learning Overview",
+    "description": "Core concept: Reinforcement Learning Overview",
+    "prerequisites": [
+      "c001"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c019": {
+    "concept_id": "c019",
+    "name": "Overfitting and Underfitting",
+    "description": "Core concept: Overfitting and Underfitting",
+    "prerequisites": [
+      "c006"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c020": {
+    "concept_id": "c020",
+    "name": "Bias-Variance Tradeoff",
+    "description": "Core concept: Bias-Variance Tradeoff",
+    "prerequisites": [
+      "c019"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c021": {
+    "concept_id": "c021",
+    "name": "General Model Evaluation Metrics",
+    "description": "Core concept: General Model Evaluation Metrics",
+    "prerequisites": [
+      "c007"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c022": {
+    "concept_id": "c022",
+    "name": "Regression Evaluation Metrics",
+    "description": "Core concept: Regression Evaluation Metrics",
+    "prerequisites": [
+      "c021",
+      "c009"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c023": {
+    "concept_id": "c023",
+    "name": "Classification Evaluation Metrics",
+    "description": "Core concept: Classification Evaluation Metrics",
+    "prerequisites": [
+      "c021",
+      "c010"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c024": {
+    "concept_id": "c024",
+    "name": "Cross-Validation",
+    "description": "Core concept: Cross-Validation",
+    "prerequisites": [
+      "c004",
+      "c021",
+      "c019"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c025": {
+    "concept_id": "c025",
+    "name": "Feature Engineering Basics",
+    "description": "Core concept: Feature Engineering Basics",
+    "prerequisites": [
+      "c002",
+      "c003"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  },
+  "c026": {
+    "concept_id": "c026",
+    "name": "Hyperparameters and Model Tuning",
+    "description": "Core concept: Hyperparameters and Model Tuning",
+    "prerequisites": [
+      "c006",
+      "c021",
+      "c019"
+    ],
+    "mastery": 0.0,
+    "bloom_level": 1,
+    "ease_factor": 2.5,
+    "interval_days": 1.0,
+    "repetitions": 0,
+    "last_review": null,
+    "next_review": null,
+    "p_know": 0.1,
+    "review_history": []
+  }
+}

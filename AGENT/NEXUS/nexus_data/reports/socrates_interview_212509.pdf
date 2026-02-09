@@ -1,0 +1,203 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Outlines 9 0 R /PageMode /UseNone /Pages 24 0 R /Type /Catalog
+>>
+endobj
+8 0 obj
+<<
+/Author () /CreationDate (D:20260208212509+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260208212509+05'00') /Producer (xhtml2pdf <https://github.com/xhtml2pdf/xhtml2pdf/>) 
+  /Subject () /Title () /Trapped /False
+>>
+endobj
+9 0 obj
+<<
+/Count 3 /First 10 0 R /Last 10 0 R /Type /Outlines
+>>
+endobj
+10 0 obj
+<<
+/Count -2 /Dest [ 4 0 R /Fit ] /First 11 0 R /Last 23 0 R /Parent 9 0 R /Title (SOCRATES Mock Interview)
+>>
+endobj
+11 0 obj
+<<
+/Count -11 /Dest [ 4 0 R /Fit ] /First 12 0 R /Last 22 0 R /Next 23 0 R /Parent 10 0 R 
+  /Title (Role: Senior Software Engineer)
+>>
+endobj
+12 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 13 0 R /Parent 11 0 R /Title (Tell me about a time you led a complex technical project from inception to completion. What challenges did you face and how did you overcome them?)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Design a URL shortener service. Discuss scalability, data storage, collision handling, and monitoring.)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Describe a situation where you had to resolve a significant technical disagreement within your team. What was the outcome, and what was your role in reaching a consensus?)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (How do you approach diagnosing and resolving a performance bottleneck in a distributed production system? Walk me through your methodology and tools you might use.)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 4 0 R /Fit ] /Next 17 0 R /Parent 11 0 R /Prev 15 0 R /Title (Tell me about a time you mentored a junior engineer or helped upskill a team member. What was the most rewarding aspect of that experience?)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Next 18 0 R /Parent 11 0 R /Prev 16 0 R /Title (Explain the CAP theorem and discuss its implications when designing a highly available and consistent distributed database system.)
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Next 19 0 R /Parent 11 0 R /Prev 17 0 R /Title (You discover a critical bug in production shortly before a major release. The fix is complex and carries a risk of introducing new issues. How do you proceed?)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Next 20 0 R /Parent 11 0 R /Prev 18 0 R /Title (Discuss different strategies for API versioning and their respective pros and cons. When would you choose one over another?)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Next 21 0 R /Parent 11 0 R /Prev 19 0 R /Title (Describe a time when you had to make a technical decision with incomplete information or under significant time pressure. How did you approach it, and what was the outcome?)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Next 22 0 R /Parent 11 0 R /Prev 20 0 R /Title (How do you ensure code quality, maintainability, and testability in a large codebase? What practices and tools do you advocate for?)
+>>
+endobj
+22 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Parent 11 0 R /Prev 21 0 R /Title (Imagine you've inherited a legacy system that is crucial to the business but is difficult to maintain and extend. How would you propose a strategy for modernizing it while minimizing business disruption?)
+>>
+endobj
+23 0 obj
+<<
+/Dest [ 5 0 R /Fit ] /Parent 10 0 R /Prev 11 0 R /Title (Tips)
+>>
+endobj
+24 0 obj
+<<
+/Count 3 /Kids [ 4 0 R 5 0 R 6 0 R ] /Type /Pages
+>>
+endobj
+25 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1410
+>>
+stream
+Gb"/f?Z4[W&A[2p.IOGk;H>&39'ja*[HT`F`R)OjT4s^ZQq3r!;K2g*_s^,X8qJTs'?A5<i7J>8h&VRNiuKRZpn?r]l2Z:(_:t"b."g1cBMNT8I>4NM_-[FSnOp?tF%-:4;F)HdTe)tKp=_3S2jZZqQA'k^!Qq7&.`Md-&nW/g,0GE4OT@&/7Zs$q$P%h?R2%$0684['(i";<o#LXf?Y2eUnASC?n9Z8$E,Nqs-^^IAlub/UCGPH5)99K40Z'P=IBoXN5r6BfACtSSA@qd5*mn5<miEAFQVC@IW(`\VMMPu94Dg:J)-75;XtnLXm>\)bS&_Zhn)2.VedZTXQ=6m#"%RcVHXhe7]=l*q.<;0*9;>(heY>qaW`=pR;4tM&.jdal6"CJ(Du'6a>`=Fs2#@kn3@BM3'q.H^+p?%V8!N+9-7+oIjK&0S0S00o$E']@q&Me>3'8ju5GK0a(SkT*cY6W'h9NHYdEaVt[a5o=F#O<M&1f^lg^(#b@'an0W\rZWR&]CfV-@%2maP2:Q@nM=p6AbalZrj)nk<A,f#1krh\mN.C384!^,@#JG*/RRFbMmR"Z1*[Fh2WMi*le^1#:0b,FZUP7a"4<6Q;RR75VapcIqpdmYPMC8KtJGLBX"]_7N)=Su4h)"_(5`.cP_KLRE/)DI3u%g<%c?b"I%W+h`#Wmr^=l)_U!`gbejITu!N#)a;p9dT0isE8Zp$(6A3(gA=#c'jT^Wo:i%G)3JV2DPWO)`<fT5!OWHXgU]nRr]L/g^2ZLo]c"W+$bS4t&'J%LpYZW>4h%O&(Pf6A6%]\mT!^RH*8B'@aBO;d['m.K-gW$OSa.lQ`I>*_I*dG?GYrjGS4G:,J^;k8pRLm:R35`ufV8Tt\_P<'P"+1N4]7H;.-RGi\RI8=$'14R'8'0p:=Tju-o&L.#9d1YG)iO,]FCW2WGC=W@?^:$]td$j)SKq42j<O`@LVHa>`4Pposu3'ktE0Gr73b_[Z=l%S>s2<mTXHKdhuP:NN);!-,'!58=D\LWIpTQe`mK1e=a"Adb^JMO+)k#\-\=FJr^<8Qm1c$EE36DV!M6ji>8i)A%+[s=b0"krh;fU/SL!rO_>VN-D'ZqZqr$G[+ko7T4.ic'#&[G`@3QqJEj^i5-]dND0Sf-=IEU^L/)7;$?I!betiT.;2F*EFi\dB>@J"C!i*]Q=J^A]?hf.o.=BV3)5Ja)E+@^?+RVp:gqpJ%^.:;;F)Bo`P1nU##r$\36YcTrQ5REbfY\BE;c^>a-n:fE2=DJqM?QlIE0R!%ZpbY)g@5cs=[pQ(h^)heYK3(Th2n4kVdk%rS*^k1nGgM8.i]L0rlh):SJ!<Ql/lTF.!]q[O*8eR1jtAF=9@3[ia^IiE=ccNn&Vsq#kpNTO#/@.;m$"j0INd8_*=fdO]V~>endstream
+endobj
+26 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1484
+>>
+stream
+Gb"/g?#SIU'Sc)J/'ctVU16VaeAlHaXrhG1%VRd'__,Y[[b9r`'ra/6p>bn1ZJ?3aZQtQsRimh%:d0Zq3Tne:BMK0=Gds(Ld4[;%p4a4s1g:Me=@0@goQk]Sjm43E^AE'tR,g\>:mT$NM^&^94D&jN@@1/Z'Tp1$+h5ap?_4[A;"BF!3#*\b9,$SJ/Y7@M(XrB%URO77o;6eaV'H?t;OP=djn[1LB:R#1Us4C6&JF-\9,o6/:1a8B08Ks""=hMI*q>J,%IoD=_M@@.)aU!@>JuMXh1*28o@K>p>+(]39%1s"+8fd'l\8AC;.XQ(=A-ZmC=]dAPqu]]BsZ5><SEmQCYC'`>++KPhYp'P:GdDbkNYC%>0Uh'glsKIf'1b2O01G5_.e-q:<f'SA@Hg9Ye;pBq([PnED\!;3Kn_@@Ys;>5=!!`H5:#BA'u9f\<*n_rn&)0eNmA0(<]q66(B]U;AgU.1<P:rSenKdd[TZg(WBW!,u<SQKc?XF5Bk0g-KI[2H`<NAG5_,IEk5M`a@o>.cmuG)Qu],G`dcI&)4J/B2/N9'QjOPZ_m5Os=@'r&@k/,pbDKg;[f5QH^ef6KHU(L&`e?h*LEuu3Fl-1dl%pUrl?ZNMBs&8F&)V6RVln'LC(3KHbs:I/>`u>s`l\cZlH>;Deb;O;f_*75VJZG//pR,8[X&$C4(uh$D7?4=UFfN$ktA.Zk7_k`Z[sJ6b?`%A.Al%K)E3?$i=U?R<F8J@SOBRp&'S=rZCHj%\._HVKLgt,\9kX4XU7YI^"4:'N_c0X"G"mX&+9ct>%B;M(D)2d)%W6CCERnr4Wa;>?O(R3s3jWuVAneM5ZFnt%MI@#\,tc/#>b;_:aKi"jJ/*u.o^MS1VmuMdk#)BN`1OuEkh;j6b]_BpLNL-BOXCR2(+L-UDP;u^Se-ij;>'%s"_/?RG't2k?d,;C%U%KHB)#5#^2<Ccf*QN$n>O$O""q)>=$e/eT:T&UM0aN'4/T[ZA5jiKqU4inL1%Pk#he&47mhHJ7aI9XT>s^iR^4%W,G_Z*B\8)%:*s436\Bu5^FuFlcK`$a;oT+qa;?sP/U?B4kD3,@ClGfQ:[2G(>k_IqijZ/5?PaY0FA@,aY]VT-Em&n](L/1l7,M8##uVOI0ph=7H.3d1CaPYeCO!kHk39V<rI'GoS:!?=+jI3E2TA+V&koOF^8kY;l],W_g,.,6(Ut,"cr-#00RJ>2)42pX"5;k/p#p&Ap<Q,YK/"$Q)Dc9/m2'tnH<n.Y#.iEee5XnJ<n]lBJ#5Dm0))+V(/sdhbKhCJB_190lc8A3C$3MFNk$uF*,:j+Zuq$20,?HB^U\%5ZD)Oh,^:EIdM/!PAB(<WdQ,*%;g1hkkis/m<`O,TUr%[.a3ld9f"sp/-C[dITUs!Sl/:&k!Ld<jc?=bq]e:e=(?Q4%77B?_;kI'hLPf*a(d:$4%*?5YX='m0!Mcp(KB1a/.W\kRC,33N5*ip^ScWEB`~>endstream
+endobj
+27 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1245
+>>
+stream
+Gb!l^968iI%*.i9'Y&#6EETssa*.=3_d8N$QjZ8I&eg.%8BQt-rIRr,UsmP0G@I1,I`.IA#U"Wm",J+p=$1tj!T<8J56$E^:12O;S?WJ\s1nBRl="g,TD3,DQEWKSM]0a>?tgLt[$GU93i]5/"'-48=bXV1=sc8^DP\L/=AFd\3b;l+,`np3&_`;\(oHJFMPJ-/\Ip!sbAn@gjOCED(XMNG/.(alp[YcK+7<Ij`+A`F2Kp=?5C6%37SuU@ZE0p+7<!283G),,duE15Y`e&uT<0BGT6XSRA`ZpnbEEIqc9hs!-*U_XqI(r1@aDO3=K^Rj6Kb2mD@Mdsn3+Y]k0"JJk^1doc,I*_'+ZnMYi5#!%:@%/\jA>)J+E]R!U&hqr+'g(Wm+&DfUKtaf5?A09TRb@AKu=&_J!B*,N'dg7YQjc0;/ihS<&s^Zp/76XJh#Pb^lV6#$q14V%i_+N2KJY$O,-XCObBHW,bq0!H2\jZLj]tV00b74?bfD*_!9/+PO>C_!R]5!?-'ce$&T=^!uda-4e6m%>4,1UZ,1hN"XMtFhJ;2$$:'5!0''!%HFc$b8^@ig6R2CB+\uU2JAeHD2T1;#<n:W/p_X3DpTC0e=lUdY\>r-n^KhPG+XHg-EKu!.tDW*Z)UQZ9&qq+s71:*^g"un'BG'n%><_A[emkVJOptJLnfBkNYi.&;*0rO^a-:N;L=cfn`>.kNPtF=V8\3]=r[f.G<h;[PVbQY@<n!+L#`sTUJ6(g@7eVIqRA!J)\1&";jpY+"!>2r#qN0SQUoik-IEKL&F_CFh/r^n<Dn)4_\k<`8Tr+2hp:Spdu0n%A#9]ChP#0\N!?`uLQh<EAS7]EH-@$jhGqFh)(UX*.bJl^G')ZGUhAhb-#r4G7^QV!Op\1E6e3ul_U+I=%9s9oX^abhoBR\m;G,ML+0N='eh*5Ghb%@$:K:^$/;PVb(3K%`,)L.196+oH8/DF#`8kK4H5=Yh7.fe>B)W<dFihe-3\#E)bH=o%e7%sZj!,]n1%;Q6^7W#mO;5U"f'bR][_XOF1BsBP-!M(1Tl:GmjjWB"OMEn2-UUN<-I3]&i2jalR=2TP##\GmE_1@+_Dm3bME:6S@dqeq4U]@^,=:PKOr*ViNXO]FV!Ng\+Z1'PNHAWMmVN<e8933PZ1K&+R;U<\PT;j/LEVHu)<-YBL8@UhOZY.?8ZSeRV.O<"hP6nsd%\B/f5poR:fHB_essHs9oJ9:h;nuErrW'&2?a~>endstream
+endobj
+xref
+0 28
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000526 00000 n 
+0000000731 00000 n 
+0000000936 00000 n 
+0000001021 00000 n 
+0000001273 00000 n 
+0000001346 00000 n 
+0000001473 00000 n 
+0000001625 00000 n 
+0000001852 00000 n 
+0000002048 00000 n 
+0000002312 00000 n 
+0000002569 00000 n 
+0000002802 00000 n 
+0000003026 00000 n 
+0000003278 00000 n 
+0000003495 00000 n 
+0000003761 00000 n 
+0000003986 00000 n 
+0000004270 00000 n 
+0000004355 00000 n 
+0000004427 00000 n 
+0000005929 00000 n 
+0000007505 00000 n 
+trailer
+<<
+/ID 
+[<73f226701daf3e9e01b5bc15cd9505a9><73f226701daf3e9e01b5bc15cd9505a9>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 8 0 R
+/Root 7 0 R
+/Size 28
+>>
+startxref
+8842
+%%EOF
