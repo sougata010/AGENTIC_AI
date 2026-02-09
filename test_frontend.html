@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Frontend</title>
+    <!-- Use relative paths if serving from root, or mock styles for standalone test -->
+    <style>
+        /* Embedding main.css content here for standalone viewing if needed, 
+           or just linking. linking is better if we serve it. */
+        @import url('frontend/styles/main.css');
+    </style>
+</head>
+
+<body>
+    <div style="text-align: center; color: white; padding: 2rem;">
+        <h1>Frontend Test Wrapper</h1>
+        <p>If you see the professional UI below, CSS is loading correctly.</p>
+        <iframe src="frontend/index.html" width="100%" height="800px" style="border: none;"></iframe>
+    </div>
+</body>
+
+</html>

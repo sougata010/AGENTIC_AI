@@ -1,21 +1,24 @@
 [project]
-name = "langchain_project"
-version = "0.1.0"
-description = "Add your description here"
+name = "agentic_ai"
+version = "1.0.0"
+description = "AI-powered agents for content generation, analysis, and automation"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "dotenv>=0.9.9",
-    "fpdf2>=2.8.5",
-    "langchain>=1.2.8",
-    "langchain-google-genai>=4.2.0",
-    "langchain-ollama>=1.0.1",
-    "langchain-openai>=1.1.7",
-    "markdown>=3.10.1",
-    "pdfkit>=1.0.0",
-    "pyjwt>=2.11.0",
-    "python-pptx>=1.0.2",
-    "replicate>=1.0.7",
-    "weasyprint>=68.0",
-    "xhtml2pdf>=0.2.17",
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.32.0",
+    "python-dotenv>=1.0.0",
+    "langchain>=0.3.0",
+    "langchain-google-genai>=2.0.0",
+    "langchain-openai>=0.2.0",
+    "pydantic>=2.0.0",
+    "python-pptx>=1.0.0",
+    "xhtml2pdf>=0.2.15",
+    "fpdf2>=2.8.0",
+    "requests>=2.32.0",
+    "replicate>=1.0.0",
 ]
+
+[project.scripts]
+agentic-ai = "app.main:main"
+
